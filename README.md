@@ -1,4 +1,4 @@
-************run static web using Docker**************
+///////////////////////////////////run static web using Docker////////////////////////////
 
 
 $ docker build -t <image_name> .   //build image
